@@ -1,2 +1,2 @@
-# flaziComm
+# Flazi Comm
 Flazi Commerce - Project
